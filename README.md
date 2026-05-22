@@ -20,3 +20,9 @@ Quando executado, o script toma o controle do mouse e do teclado para realizar a
 
 ## ⚠️ Nota Técnica (Disclaimer)
 Este projeto utiliza cliques baseados em **coordenadas absolutas de tela (x, y)**. Isso significa que ele foi calibrado especificamente para a minha resolução de monitor e para a organização de ícones da minha Área de Trabalho.
+
+## Vídeo em execução
+https://github.com/user-attachments/assets/69d0a942-b04e-415f-827f-4649f8eaa4a6
+
+
+
